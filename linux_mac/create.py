@@ -1,0 +1,1 @@
+print("Project inside linux_mac")
